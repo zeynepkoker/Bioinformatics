@@ -1,6 +1,5 @@
-
-# Bioinformatics
-
+### AUTHOR: Zeynep KOKER --> zeyneepkkr@gmail.com
+### Coursera: Biology Meets Programming: Bioinformatics for Beginners
 
 import random
 
